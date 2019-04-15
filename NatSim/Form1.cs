@@ -90,11 +90,7 @@ namespace NatSim
 
                 case SoortLeven.Konijn:
                     natuur.Add(new Konijn(e.Location));
-                    break;
-
-                case SoortLeven.Jaguar:
-                    natuur.Add(new Jaguar(e.Location));
-                    break;
+                    break;               
 
                 case SoortLeven.Beer:
                     natuur.Add(new Beer(e.Location));
@@ -117,12 +113,7 @@ namespace NatSim
             {
                 Koe Koe01 = new Koe(positie, "Bertha", Color.Black);
                 Koe01.Teken(pbWereld.CreateGraphics());
-            }
-            else if (rdbJaguar.Checked == true)
-            {
-                Jaguar jaguar01 = new Jaguar(positie, "Bart", Color.Yellow);
-                jaguar01.Teken(pbWereld.CreateGraphics());
-            }
+            }            
             else if (rdbLynx.Checked == true)
             {
                 Lynx Lynx01 = new Lynx(positie, "Bob", Color.Gray);
@@ -205,9 +196,6 @@ namespace NatSim
             }
         }
 
-        private void rdbJaguar_CheckedChanged(object sender, EventArgs e)
-        {
-            if (rdbJaguar.Checked) soortDier = SoortLeven.Jaguar;
-        }
+       
     }
 }

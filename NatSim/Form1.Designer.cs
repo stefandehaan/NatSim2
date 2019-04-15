@@ -46,7 +46,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.label2 = new System.Windows.Forms.Label();
-            this.rdbJaguar = new System.Windows.Forms.RadioButton();
             this.grbDieren.SuspendLayout();
             this.grbPlanten.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbWereld)).BeginInit();
@@ -56,7 +55,6 @@
             // grbDieren
             // 
             this.grbDieren.BackColor = System.Drawing.Color.BurlyWood;
-            this.grbDieren.Controls.Add(this.rdbJaguar);
             this.grbDieren.Controls.Add(this.rdbBeer);
             this.grbDieren.Controls.Add(this.rdbLynx);
             this.grbDieren.Controls.Add(this.rdbKoe);
@@ -244,17 +242,6 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "Snelheid";
             // 
-            // rdbJaguar
-            // 
-            this.rdbJaguar.AutoSize = true;
-            this.rdbJaguar.Location = new System.Drawing.Point(6, 111);
-            this.rdbJaguar.Name = "rdbJaguar";
-            this.rdbJaguar.Size = new System.Drawing.Size(57, 17);
-            this.rdbJaguar.TabIndex = 5;
-            this.rdbJaguar.Text = "Jaguar";
-            this.rdbJaguar.UseVisualStyleBackColor = true;
-            this.rdbJaguar.CheckedChanged += new System.EventHandler(this.rdbJaguar_CheckedChanged);
-            // 
             // FrmNatSim
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -303,7 +290,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.HScrollBar hScrollBar1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.RadioButton rdbJaguar;
     }
 }
 

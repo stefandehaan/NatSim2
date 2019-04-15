@@ -18,3 +18,13 @@ C:\Users\jelle\source\repos\NatSim1\NatSim\obj\Debug\NatSim.csproj.GenerateResou
 C:\Users\jelle\source\repos\NatSim1\NatSim\obj\Debug\NatSim.csproj.CoreCompileInputs.cache
 C:\Users\jelle\source\repos\NatSim1\NatSim\obj\Debug\NatSim.exe
 C:\Users\jelle\source\repos\NatSim1\NatSim\obj\Debug\NatSim.pdb
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\bin\Debug\NatSim.exe.config
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\bin\Debug\NatSim.exe
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\bin\Debug\NatSim.pdb
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.FrmNatSim.resources
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.Properties.Resources.resources
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.exe
+C:\Users\stefa\Documents\GitHub\NatSim2\NatSim\obj\Debug\NatSim.pdb
